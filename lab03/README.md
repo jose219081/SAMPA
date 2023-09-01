@@ -16,7 +16,7 @@ Estrutura de pastas:
 
 ## Modelo conceitual ER Revisado
 <img src="ER_revisado.jpg" width="400px" height="auto">
-*Diagrama ER Revisado*
+_Diagrama ER Revisado_
 
 ## Mapeamento para o Modelo Relacional
 
