@@ -8,7 +8,7 @@ Estrutura de pastas:
 └── ER  <- arquivos de imagem ER, revisado
 ~~~
 
-# Equipe
+# Equipe PLAY
 # Subgrupo SAMPA
 
 * José Felipe Theodoro - RA:219081
