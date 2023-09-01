@@ -5,7 +5,7 @@ Estrutura de pastas:
 ~~~
 ├── README.md  <- arquivo apresentando a tarefa
 │
-└── ER  <- arquivos de imagem ER, revisado
+└── ER_revisado.jpg  <- arquivos de imagem ER, revisado
 ~~~
 
 # Equipe PLAY
