@@ -15,7 +15,7 @@ Estrutura de pastas:
 * Gustavo Henrique Luiz Merlo - RA:171401
 
 ## Modelo conceitual ER Revisado
-<img src="ER.jpg" width="400px" height="auto">
+<img src="ER_revisado.jpg" width="400px" height="auto">
 
 ## Mapeamento para o Modelo Relacional
 
