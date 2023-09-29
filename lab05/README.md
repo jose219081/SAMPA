@@ -5,7 +5,7 @@ Estrutura de pastas:
 ~~~
 ├── README.md  <- arquivo apresentando a tarefa
 │
-└── food-intake-analysis.ipynb    <- arquivos do notebook com as soluções
+└── food-intake-analysis-advanced.ipynb    <- arquivos do notebook com as soluções
 
 ~~~
 
@@ -17,4 +17,4 @@ Estrutura de pastas:
 
 ## Solução
 
-O arquivo notebook com as soluções do lab04 está em `food-intake-analysis.ipynb`
+O arquivo notebook com as soluções do lab05 está em `food-intake-analysis-advanced.ipynb`
