@@ -18,3 +18,7 @@ Estrutura de pastas:
 ## Solução
 
 O arquivo notebook com as soluções do lab04 está em `food-intake-analysis.ipynb`
+
+
+
+OBS: Arquivo notebook foi deletado por engano em 06/10. Re-upload feito no mesmo dia, o arquivo não foi modificado.
