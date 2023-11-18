@@ -170,6 +170,11 @@ Que tipo de análise interessante pode ser feita com esse grafo?
 Proponha um tipo de análise e escreva uma sentença em Cypher que realize a análise.
 
 ### Resolução
+Podemos verificar quais são os efeitos colaterais mais comuns para todos medicamentos existentes
+
 ~~~cypher
-(escreva aqui a resolução em Cypher)
+MATCH (d1)-[sd:Sideeffects]->(c1)
+MATCH (d2)-[sd:Sideeffects]->(c2)
+WHERE c1.code = c2.code
+RETURN c1.code, COUNT(*);
 ~~~
