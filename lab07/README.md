@@ -8,9 +8,9 @@ Estrutura de pastas:
 └── images     <- arquivos de imagem usados na tarefa
 ~~~
 
-# Equipe `SAMPA`
+# Equipe `PLAY`
 
-# Subgrupo `PLAY`
+# Subgrupo `SAMPA`
 * `Gustavo Henrique Luiz Merlo` - `171401`
 * `José Felipe Theodoro` - `219081`
 
