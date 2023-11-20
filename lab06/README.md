@@ -9,7 +9,7 @@ Estrutura de pastas:
 # Equipe `PLAY`
 
 # Subgrupo `SAMPA`
-* `Jose´Felipe Theodoro` - `219081`
+* `José Felipe Theodoro` - `219081`
 * `Gustvao Henrique Luiz Merlo` - `171401`
 
 ## Tarefa de Cypher sobre Patologias, Medicamentos e Efeitos Colaterais
