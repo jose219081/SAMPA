@@ -17,8 +17,6 @@ Estrutura de pastas:
 
 ## Perguntas de Pesquisa/Análise Combinadas e Respectivas Análises
 
-> Liste aqui as perguntas de pesquisa/análise e respectivas análises.
->
 ### Pergunta/Análise 1
 > * Como ocorre o fluxo de dados no grafo? (Centralidade)
 >   
