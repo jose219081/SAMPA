@@ -25,9 +25,9 @@ Estrutura de pastas:
 >   * Explicação sucinta da análise que será feita no grafo para atender à pergunta. Deve ser indicado explicitamente em qual das modalidades a análise se encaixa: centralidade; vulnerabilidade; comunidade/modularidade; motifs; predição de links.
 
 ### Pergunta/Análise 2
-> * Pergunta 2
+> * Quais as consequências de perda de dados de Recipes?
 >   
->   * Explicação sucinta da análise que será feita no grafo para atender à pergunta. Deve ser indicado explicitamente em qual das modalidades a análise se encaixa: centralidade; vulnerabilidade; comunidade/modularidade; motifs; predição de links.
+>   * Como podemos verificar no grafo e na pergunta anterior podemos identificar a alta importância de Recipes o que torna possível afirmar que  existe um alto grau de vulnerabilidade nessa organização, pois a perca de dados contidos em Recipes podem tornar as informações de outros nós inutilizáveis. Um exemplo seria a perda das informações acerca "Cooked_Status: int", tal perda faria com que as informações presentes no nó Cooked_Status percam sua utilidade.
 
 ### Pergunta/Análise 3
 > * Pergunta 3
