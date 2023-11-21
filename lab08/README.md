@@ -30,4 +30,4 @@ Estrutura de pastas:
 ### Pergunta/Análise 3
 > * É possível modularizar o grafo? (Modularidade)
 >   
->   * Podemos identificar duas comunidades no grafo: a primeira uma ligação entre Recipes e seus nós adjacentes, e a segunda um ligação entre FCID_Code_Description e FCID_Cropgroup_Description. A informação contida na segunda comunidade é independente da primeira, o que indica que o grafo pode ser modularizado.
+>   * Podemos identificar duas comunidades no grafo: a primeira uma ligação entre Recipes e seus nós adjacentes, e a segunda uma ligação entre FCID_Code_Description e FCID_Cropgroup_Description. A informação contida na segunda comunidade é independente da primeira, o que indica que o grafo pode ser modularizado.
